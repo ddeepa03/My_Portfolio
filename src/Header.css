@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background: #333;
+  color: #fff;
+}
+.nav {
+  display: flex;
+  gap: 1rem;
+}
+.hamburger {
+  display: none;
+}
+@media (max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
+  .nav {
+    display: none;
+  }
+  .nav-open {
+    display: flex;
+    flex-direction: column;
+  }
+}
