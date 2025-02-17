@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/full-stack-development/static/css/main.79528b44.css",
+    "main.js": "/full-stack-development/static/js/main.ad0ee13e.js",
+    "static/media/profile.jpg": "/full-stack-development/static/media/profile.4920a47bedde0623e9e0.jpg",
+    "index.html": "/full-stack-development/index.html",
+    "main.79528b44.css.map": "/full-stack-development/static/css/main.79528b44.css.map",
+    "main.ad0ee13e.js.map": "/full-stack-development/static/js/main.ad0ee13e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79528b44.css",
+    "static/js/main.ad0ee13e.js"
+  ]
+}
