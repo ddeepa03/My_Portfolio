@@ -17,6 +17,11 @@ const projects = [
     description: "A dynamic quiz app built with React, allowing users to answer multiple-choice questions and view their score at the end. Features state management and a smooth user interface for an engaging experience.",
     githubLink: "https://github.com/ddeepa03/Quiz_App.git",
   },
+  {
+    title: "Garbage Management System",
+    description: "A web-based Garbage Management System built with JSP, Servlets, and MySQL to streamline garbage collection, reporting, and tracking. Features role-based access, admin and collector dashboards, real-time task updates, and deployment on Apache Tomcat.",
+    githubLink: "https://github.com/ddeepa03/GMS.git",
+  }
 ];
 
 const Projects = () => (
