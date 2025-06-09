@@ -10,7 +10,8 @@ const Skills = () => (
       <li>React</li>
       <li>Java</li>
       <li>J2EE</li>
-      <li>GitHub</li>
+      <li>MYSQL</li>
+      <li>Oracle SQL</li>
     </ul>
   </section>
 );
