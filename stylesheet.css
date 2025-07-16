@@ -467,7 +467,7 @@ body{
   }
   
   .radial-bar {
-    width: 160px;
+    width: 200px;
     height: 160px;
     position: relative;
     display: flex;
@@ -558,7 +558,7 @@ body{
   
   .text {
     margin-top: 5px;
-    font-size: 12px;
+    font-size: 15px;
     color: #fff;
     z-index: 1;
   }
