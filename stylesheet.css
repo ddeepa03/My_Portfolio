@@ -581,7 +581,7 @@ body{
     grid-template-columns: repeat(auto-fit, minmax(359px, auto));
   }
   .row{
-    width: 390px;  
+    width: 400px;  
     position: relative;
     overflow: hidden;
     border-radius: 8px;
@@ -621,7 +621,8 @@ body{
   }
   .layer p{
     color: #000;
-    font-size: 14px;
+    font-size: 15px;
+    font-weight: 200  
     line-height: 1.8;
   }
   .row:hover img{
