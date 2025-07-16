@@ -594,7 +594,7 @@ body{
     display: block;
     transition: transform 0.5s;
     padding: 10px;
-    object-fit: contain;  
+    object-fit: cover;  
   }
   .layer{
     width: 100%;
