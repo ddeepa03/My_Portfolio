@@ -577,19 +577,19 @@ body{
     color: #0ef;
   }
   .portfolio-content{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     gap: 30px;
     padding: 0 5%;
   }
   .row{
-    position: relative;
-    width: 100%;
+    width: 400px;         /* Increase width */
+    height: 250px;        /* Increase height */
     overflow: hidden;
-    border-radius: 10px;
-    cursor: pointer;
-    aspect-ratio: 16 / 9;
+    border-radius: 15px;
     background-color: #000;
+    transition: transform 0.3s ease;
   }
   .row img{
     width: 100%;
