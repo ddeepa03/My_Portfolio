@@ -585,7 +585,7 @@ body{
     overflow: hidden;
     border-radius: 8px;
     cursor: pointer;
-    aspect-ratio: 16 / 9;
+    
   }
   .row img{
     width: 100%;
