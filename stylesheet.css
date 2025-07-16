@@ -823,6 +823,12 @@ body{
     grid-template-columns: 1fr;
     padding: 0 5%;
   }
+   @media (max-width: 767px) { 
+    .row {
+    width: 340px;
+    }
+   }
+    
   .row img {
     padding: 5px;
   }
