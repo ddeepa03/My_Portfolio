@@ -587,6 +587,8 @@ body{
     cursor: pointer;
   }
   .row img{
+    width: 100%;  
+    height: 300px;  
     border-radius: 10px;
     display: block;
     transition: transform 0.5s;
